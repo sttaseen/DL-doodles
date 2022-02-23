@@ -29,4 +29,4 @@ I recommend you look at the addition NN (Neural Network) before you make your wa
 
 ## Contact
 
-If you find any typos or problems or just want to reach out to me with questions, feel free to email me. My email is sttaseen@gmail.com. 
+If you find any typos or problems or just want to reach out to me with questions, feel free to contact [me](https://www.linkedin.com/in/sttaseen). 
